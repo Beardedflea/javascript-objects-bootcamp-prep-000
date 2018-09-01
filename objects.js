@@ -3,7 +3,7 @@ var playlist ={
   My Bloody Valentine: 'Sometimes'
 }
 
-playlist['Slowdive'] = 'Alison'
-playlist['My Bloody Valentine'] = 'Sometimes'
+playlist.Slowdive
+playlist.['My Bloody Valentine']
 
 function updatePlaylist(playlist, artistName, songTitle){
