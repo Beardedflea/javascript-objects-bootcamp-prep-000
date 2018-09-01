@@ -3,7 +3,5 @@ var playlist ={
   My Bloody Valentine: 'Sometimes'
 }
 
-playlist.Slowdive
-playlist.['My Bloody Valentine']
 
-playlists.
+playlists.['Phil Ochs'] = ''
