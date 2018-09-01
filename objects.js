@@ -11,3 +11,4 @@ function updatePlaylist(playlist, artistName, songTitle){
 }
 
 updatePlaylist(playlist,'My Bloody Valentine', 'Sometimes');
+updatePlaylist(playlist,'Slowdive', 'Alison');
