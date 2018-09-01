@@ -4,4 +4,4 @@ playlist['Slowdive'] = 'Alison';
 playlist['My Bloody Valentine'] = 'Sometimes';
 
 
-playlists['Phil Ochs'] = "Here's to the State of Mississippi";
+playlists['Phil Ochs'] = "Here's to the State of Mississippi"
