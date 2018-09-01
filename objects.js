@@ -1,5 +1,7 @@
 var playlist = new Object();
 
+playlist['Slowdive'] = 'Alison';
+playlist['My Bloody Valentine'] = 'Sometimes';
 
 
 
