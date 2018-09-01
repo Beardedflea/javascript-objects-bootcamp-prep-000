@@ -1,7 +1,4 @@
-var playlist ={
-  Slowdive: 'Alison',
-  [My Bloody Valentine]: 'Sometimes'
-}
+var playlist = new Object()
 
 
 playlists.['Phil Ochs'] = "Here's to the State of Mississippi";
