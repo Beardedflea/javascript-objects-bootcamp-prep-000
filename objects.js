@@ -6,3 +6,4 @@ var playlist ={
 playlist.Slowdive
 playlist.['My Bloody Valentine']
 
+playlists.
